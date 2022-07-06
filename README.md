@@ -2,4 +2,4 @@
 SQL Data Base for a store.
 
 # Full Documentation, DER included (Only in PT-BR).
-[https://docs.google.com/document/d/1JzB12O5LZS79ghW4aXCHxbOwhZ7IQx4LMeiMt868044/edit?usp=sharing](https://docs.google.com/document/d/1JzB12O5LZS79ghW4aXCHxbOwhZ7IQx4LMeiMt868044/edit?usp=sharing)
+[Link](https://drive.google.com/file/d/1J865K5A8_vc8vYsthkn_q579no1WQKe4/view?usp=sharing)
